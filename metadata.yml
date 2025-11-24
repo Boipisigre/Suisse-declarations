@@ -1,19 +1,22 @@
 id: Suisse
 name: Suisse
-tagline: ''
-description: ''
+tagline: 'Suivi de service présent en suisse Romande & Alémanique'
+description: 'The **Suisse** collection tracks terms of services used in switzerland
+
+  This collection is maintained by several people of **La société numérique** for the services in french.
+  This collection is maintained by several people of **digitale-gesellschaft** for the services in german.'
 dataset: https://github.com/Boipisigre/Suisse-versions/releases
 declarations: https://github.com/Boipisigre/Suisse-declarations
 versions: https://github.com/Boipisigre/Suisse-versions
 snapshots: https://github.com/Boipisigre/Suisse-snapshots
-donations: ''
+donations: https://opencollective.com/opentermsarchive/projects/collection-dating
 logo: ''
-languages: []
-jurisdictions: []
+languages: [fr, de ]
+jurisdictions: [CH]
 trackingPeriods:
   - startDate: 2025-11-24
     schedule: "30 */12 * * *"
-    serverLocation: ''
+    serverLocation: 'Lausanne , CH'
 governance:
   Boipisigre:
     url: ''
