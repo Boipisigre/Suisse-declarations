@@ -4,10 +4,10 @@
     "Terms of Service": {
       "fetch": "https://www.twint.ch/fr/conditions-generales-twint-id/",
       "select": ".container-xl"
-    },      
+    },
     "Privacy policy": {
       "fetch": "https://www.twint.ch/fr/politique-de-confidentialite-de-twint-id/",
       "select": ".container-xl"
-    }      
+    }
   }
 }

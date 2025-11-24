@@ -8,6 +8,6 @@
     "Privacy policy": {
       "fetch": "https://www.ubs.com/global/fr/legal/privacy.html",
       "select": ".grid-row"
-    }      
+    }
   }
 }

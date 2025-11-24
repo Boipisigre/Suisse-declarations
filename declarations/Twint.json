@@ -16,6 +16,6 @@
     "Terms Bank failure": {
       "fetch": "https://www.twint.ch/fr/garantie-du-risque-de-defaillance/",
       "select": ".container-xl"
-    }      
+    }
   }
 }
