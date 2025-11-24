@@ -1,0 +1,13 @@
+{
+  "name": "UBS",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.ubs.com/global/fr/legal/disclaimer.html",
+      "select": ".grid-row"
+    },
+    "Privacy policy": {
+      "fetch": "https://www.ubs.com/global/fr/legal/privacy.html",
+      "select": ".grid-row"
+    }      
+  }
+}

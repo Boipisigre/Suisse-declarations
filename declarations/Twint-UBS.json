@@ -1,0 +1,17 @@
+{
+  "name": "Twint-UBS",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.ubs.com/ch/fr/services/digital-banking/mobile-banking/twint/termsofuse.html",
+      "select": ".grid-row"
+    },
+    "Terms of Service TWINT ID": {
+      "fetch": "https://www.twint.ch/fr/conditions-generales-twint-id/",
+      "select": ".container-xl"
+    },      
+    "Privacy policy TWINT ID": {
+      "fetch": "https://www.twint.ch/fr/politique-de-confidentialite-de-twint-id/",
+      "select": ".container-xl"
+    }      
+  }
+}

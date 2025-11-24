@@ -1,0 +1,13 @@
+{
+  "name": "Twint",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.bettybossi.ch/fr/magazine/article/cg-conditions-generales-de-vente-de-betty-bossi/",
+      "select": ".RichText_root__neiPA"
+    },
+    "Privacy policy": {
+      "fetch": "https://www.coop.ch/fr/entreprise/protection-des-donnees/bettybossi.html",
+      "select": ".cms-container"
+    }      
+  }
+}
