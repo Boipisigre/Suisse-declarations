@@ -1,6 +1,6 @@
 all:
   hosts:
-    <your_server_hostname>:
-      ansible_user: <your_server_username>
-      ed25519_fingerprint: <your_server_ssh_fingerprint>
-      ota_source_repository: <your_repository_url>
+    62.220.153.33:
+      ansible_user: suisse-ota
+      ed25519_fingerprint: AAAAC3NzaC1lZDI1NTE5AAAAID5aIIYVrmwkOl+ielxW/OLZbA4f5j75wkwFsy3c0j9H
+      ota_source_repository: https://github.com/Boipisigre/Suisse-declarations
