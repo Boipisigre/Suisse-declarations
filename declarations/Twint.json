@@ -8,14 +8,6 @@
     "Privacy policy": {
       "fetch": "https://www.twint.ch/fr/confidentialite/",
       "select": ".container-xl"
-    },
-    "Utilisation codes de crédit": {
-      "fetch": "https://www.twint.ch/fr/conditions-dutilisation-pour-les-codes-de-credit/",
-      "select": ".container-xl"
-    },
-    "Terms Bank failure": {
-      "fetch": "https://www.twint.ch/fr/garantie-du-risque-de-defaillance/",
-      "select": ".container-xl"
     }
   }
 }
