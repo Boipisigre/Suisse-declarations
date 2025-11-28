@@ -45,7 +45,10 @@
       "basePath": "/collection-api"
     },
     "logger": {
-      "timestampPrefix": false
+      "smtp": {
+         "host": "mail.infomaniak.com",
+         "username": "pib@pirboazo.net"
+	}
     }
   }
 }
