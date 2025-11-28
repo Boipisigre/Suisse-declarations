@@ -1,0 +1,13 @@
+{
+  "name": "Twint-UBS-ID",
+  "terms": {
+    "Terms of Service": {
+      "fetch": "https://www.twint.ch/fr/informations-legales/cgv-twint-id-ubs/",
+      "select": ".container-xl"
+    },
+    "Privacy policy": {
+      "fetch": "https://www.twint.ch/fr/informations-legales/politique-de-confidentialite-de-twint-id-ubs/",
+      "select": ".container-xl"
+    }
+  }
+}
