@@ -4,6 +4,8 @@ The terms in this collection are declared by <!-- customize to your context -->t
 
 You can [explore the tracked versions](https://github.com/Boipisigre/Suisse-versions) interactively or [download them as a dataset](https://github.com/Boipisigre/Suisse-versions/releases) in the `Boipisigre/Suisse-versions` repository.
 
+List of existing ( 40) terms https://lumiterms.com/ (i.e privacy policiy, community guideline, ...) with the possibility to suggest new terms to the team via https://github.com/OpenTermsArchive/terms-types/discussions/new?category=submitted
+
 ## Scope
 
 The scope of the terms you will find in this collection is defined in the [`metadata.yml`](./metadata.yml) file.
